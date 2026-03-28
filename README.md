@@ -81,7 +81,9 @@ python train.py
 ---
 
 ## 📸 Outputs
-(Add your graphs, plots, or screenshots here)
+![WhatsApp Image 2026-03-28 at 10 25 53 PM](https://github.com/user-attachments/assets/ba7d0b58-bb73-4d48-8d30-c681cac6b81a)
+
+
 
 ---
 
@@ -95,8 +97,3 @@ python train.py
 - Jagadeesh Guptha  
 - Yashwanth Yalamarthy  
 - Bure Siddardha  
-
----
-## 📬 Contact
-For queries:
-- GitHub: https://github.com/your-username
