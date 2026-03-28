@@ -88,7 +88,6 @@ python train.py
 ---
 
 ## 🔗 Links
-- 📂 GitHub: https://github.com/your-username/your-repo
 - 🎥 Demo: Add your YouTube link here
 
 ---
